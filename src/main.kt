@@ -1,6 +1,6 @@
 fun main() {
 
-    var name:String="Jane wanjiku"
+    var name:String="Jane wambui"
         println(name)
 
     var age:Int=23
